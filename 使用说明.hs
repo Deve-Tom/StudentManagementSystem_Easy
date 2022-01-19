@@ -1,0 +1,14 @@
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+本程序由XX制作，请在使用本程序之前认真阅读以下规则
+使用说明;
+1.本程序采用的存储结构为链表，能够快速的进行增删等操作
+2.本程序的建议再64位系统下进行运行（因为导出来的时候本
+来就是导出的64位）
+3.本程序中如果遇到崩溃等问题均是正常的，因为我压根就没
+在其它机器上做过测试
+4.本程序在执行完对应功能操作后会默认返回主菜单界面，这
+不是BUG,因为我本来就是这么写的
+5.经过反复的验证，在导出所处理的数据时，请导出txt格式
+的文档，其它文档导出后会出现无法打开数据丢失等情况 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+                                         2021.10.03
